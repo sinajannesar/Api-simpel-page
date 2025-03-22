@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": "asdhasdha",
+      "title": "Sample Article",
+      "description": "This is a sample article description",
+      "content": "This is the full content of the sample article.",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "b9dd",
+      "title": "Amir",
+      "description": "descrip",
+      "content": "description",
+      "createdAt": "2025-03-17T19:54:44.884Z"
+    },
+    {
+      "id": "3f71",
+      "title": "Title",
+      "description": "Amirhossein",
+      "content": "Description",
+      "createdAt": "2025-03-17T20:04:46.000Z"
+    },
+    {
+      "id": "c4ca",
+      "title": " Add title",
+      "description": "add title",
+      "content": "description",
+      "createdAt": "2025-03-17T20:11:33.875Z"
+    },
+    {
+      "id": "c846",
+      "title": "Aasdasdasd",
+      "description": "asdasdfsdfs",
+      "content": "description",
+      "createdAt": "2025-03-17T20:30:16.397Z"
+    },
+    {
+      "id": "08cf",
+      "title": "طزررطزرط",
+      "description": "طزرطزرطزرطزرطر",
+      "content": "طزرطزرطزرطزرطزرطزرزطر",
+      "createdAt": "2025-03-18T06:24:00.487Z"
+    },
+    {
+      "id": "abf5",
+      "title": "rthrtytuey",
+      "description": "rttyertyertyrty",
+      "content": "rtyertywrtytyeruyr",
+      "createdAt": "2025-03-18T10:27:17.334Z"
+    },
+    {
+      "id": "5de2",
+      "title": "yguygty",
+      "description": "tftyvyjvytjvtyvythgf",
+      "content": "ygvgbyutnyubtdyn",
+      "createdAt": "2025-03-21T07:18:06.996Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "sdfs",
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "john.smith@email.com",
+      "avatar": "https://robohash.org/john.smith"
+    },
+    {
+      "id": "sdfs",
+      "first_name": "Emma",
+      "last_name": "Wilson",
+      "email": "emma.wilson@email.com",
+      "avatar": "https://robohash.org/emma.wilson"
+    },
+    {
+      "id": "dfgg",
+      "first_name": "Michael",
+      "last_name": "Chen",
+      "email": "michael.chen@email.com",
+      "avatar": "https://robohash.org/michael.chen"
+    },
+    {
+      "id": "ghjg",
+      "first_name": "Sofia",
+      "last_name": "Garcia",
+      "email": "sofia.garcia@email.com",
+      "avatar": "https://robohash.org/sofia.garcia"
+    },
+    {
+      "id": "hkhj",
+      "first_name": "James",
+      "last_name": "Taylor",
+      "email": "james.taylor@email.com",
+      "avatar": "https://robohash.org/james.taylor"
+    }
+  ]
+}
